@@ -1,5 +1,8 @@
 # shopping-cart
 
+> Vuex Example
+> https://github.com/vuejs/vuex/tree/dev/examples/shopping-cart
+
 ## Project setup
 ```
 npm install
